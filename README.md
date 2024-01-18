@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a recent graduate of Business Analytics and a new writer creating the tech version of me, skilled to offer solutions to the world one step at a time. I find creating compelling dashboards and working with energy related data interesting which leaves me commiting effortlessly to such task ground to finish. I occcasionally publish content on my Medium "[Ereiriakuma][Medium]" page, this motivates me to self-learn while also sharing knowledge .
+Enthusiastic Business Analyst and a new writer is creating the tech version of me, skilled to offer solutions to the world one step at a time. I find creating compelling dashboards and working with energy-related data interesting, which leaves me committing effortlessly to such task ground to finish. I occcasionally publish content on my Medium "[Ereiriakuma][Medium]" page, this motivates me to self-learn while also sharing knowledge.
 
    <p align="left">
       <a></a>
